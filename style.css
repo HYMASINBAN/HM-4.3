@@ -1,0 +1,56 @@
+* {
+    margin: 10px; 
+}
+table {
+    border-collapse: collapse;
+}
+tbody {
+}
+td {
+    text-align: center;
+    height: 20px;
+}
+
+.perMonth {
+    color: gainsboro;
+}
+.type {
+    font-size: 13px;
+}
+.cost {
+    font-size: 34px;
+}
+.perMonth {
+    font-size: 14px;
+}
+.diskSpace, .monthlyBandwidth,
+.emailAccounts, .UnlimitedSubdomens {
+    font-size: 10px;
+}
+.col-1 {
+    border: 1px solid black;
+    box-shadow: 0px 0px 8px 7px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+.col-2 {
+    border: 1px solid black;
+    box-shadow: 0px 0px 8px 7px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+.col-3 {
+    border: 1px solid black;
+    box-shadow: 0px 0px 8px 7px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+.col-4 {
+    border: 1px solid black;
+    box-shadow: 0px 0px 8px 7px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+.col-1:hover {
+    transition: scale(1.4);
+    background-color: red;
+}
+.buy {
+    border-radius: 10px;
+}
